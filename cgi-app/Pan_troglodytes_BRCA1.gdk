@@ -1,0 +1,579 @@
+LOCUS       NM_001045493            5592 bp    mRNA    linear   PRI 11-NOV-2018
+DEFINITION  Pan troglodytes BRCA1, DNA repair associated (BRCA1), mRNA.
+ACCESSION   NM_001045493 XM_001156019 XM_001156129 XM_001156187 XM_001156237
+            XM_001156293 XM_001156356 XM_001156414 XM_001156470 XM_001156528
+            XM_001156583 XM_001156640 XM_001156689 XM_001156751 XM_001156812
+            XM_001156866 XM_001156929 XM_001156989 XM_001157030 XM_001157079
+            XM_001157134 XM_001157185 XM_001157239 XM_001157352 XM_001157405
+            XM_001157458 XM_001157512 XM_511531
+VERSION     NM_001045493.1
+KEYWORDS    RefSeq.
+SOURCE      Pan troglodytes (chimpanzee)
+  ORGANISM  Pan troglodytes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pan.
+REFERENCE   1  (bases 1 to 5592)
+  AUTHORS   Pavlicek A, Noskov VN, Kouprina N, Barrett JC, Jurka J and Larionov
+            V.
+  TITLE     Evolution of the tumor suppressor BRCA1 locus in primates:
+            implications for cancer predisposition
+  JOURNAL   Hum. Mol. Genet. 13 (22), 2737-2751 (2004)
+   PUBMED   15385441
+REFERENCE   2  (bases 1 to 5592)
+  AUTHORS   Hacia JG, Makalowski W, Edgemon K, Erdos MR, Robbins CM, Fodor SP,
+            Brody LC and Collins FS.
+  TITLE     Evolutionary sequence comparisons using high-density
+            oligonucleotide arrays
+  JOURNAL   Nat. Genet. 18 (2), 155-158 (1998)
+   PUBMED   9462745
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AY365046.1.
+            On or before Oct 9, 2006 this sequence version replaced
+            XM_001157030.1, XM_511531.2, XM_001157458.1, XM_001157512.1,
+            XM_001157352.1, XM_001157079.1, XM_001156989.1, XM_001157134.1,
+            XM_001156812.1, XM_001156929.1, XM_001156751.1, XM_001156866.1,
+            XM_001156293.1, XM_001156528.1, XM_001156237.1, XM_001156689.1,
+            XM_001156187.1, XM_001156414.1, XM_001156640.1, XM_001156019.1,
+            XM_001156129.1, XM_001156356.1, XM_001156583.1, XM_001157239.1,
+            XM_001157185.1, XM_001157405.1, XM_001156470.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF207822.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN01120804, SAMN01120805
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..5592
+                     /organism="Pan troglodytes"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9598"
+                     /chromosome="17"
+                     /map="17"
+     gene            1..5592
+                     /gene="BRCA1"
+                     /note="BRCA1, DNA repair associated"
+                     /db_xref="GeneID:449497"
+                     /db_xref="VGNC:VGNC:10506"
+     CDS             1..5592
+                     /gene="BRCA1"
+                     /EC_number="2.3.2.27"
+                     /note="breast cancer 1, early onset; RING-type E3
+                     ubiquitin transferase BRCA1"
+                     /codon_start=1
+                     /product="breast cancer type 1 susceptibility protein
+                     homolog"
+                     /protein_id="NP_001038958.1"
+                     /db_xref="GeneID:449497"
+                     /db_xref="VGNC:VGNC:10506"
+                     /translation="MDLSALRVEEVQNVINAMQKILECPICLELIKEPVSTKCDHIFC
+                     KFCMLKLLNQKKGPSQCPLCKNDITKRSLQESTRFSQLVEELLKIICAFQLDTGLEYA
+                     NSYNFAKKENNSPEHLKDEVSIIQSMGYRNRAKRLLQSEPENPSLQETSLSVQLSNLG
+                     TVRTLRTKQRIQPQKKSVYIELGSDSSEDTVNKATYCSVGDQELLQITPQGTRDEISL
+                     DSAKKAACEFSETDVTNTEHHQPSNNDLNTTEKRATERHPEKYQGSSVSNLHVEPCGT
+                     NTHASSLQHENSSLLLTKDRMNVEKAEFCNKSEQPGLARSQHNRWAGSKETCNDRRTP
+                     STEKKVDLNADPLCERKEWNKQKLPCSENPRDTEDVPWITLNSSIQKVNEWFSRSDEL
+                     LGSDDSHDGGSESNAKVADVLDVLNEVDEYSGSSKKIDLLASDPHEALICKSERVHSK
+                     SVESNTEDKIFGKTYRRKASLPNLSHVTENLIIGAFVTEPQIIQERPLTNKLKRKRRA
+                     TSGLHPEDFIKKADLAVQKTPEMINQGTNQMEQNGQVMNITNSGHENKTKGDSIQNEK
+                     NPNPIESLEKESAFKTKAEPISSGISNMELELNIHNSKAPKKNRLRRKSSTRHIHALE
+                     LVVSRNLSPPNCTELQIDSCSSSEEIKKKKYNQMPVRHSRNLQLMEDKEPATGVKKSN
+                     KPNEQTSKRHDSDTFPELKLTNAPGSFTNCSNTSELKEFVNPSLPREEKEEKLETVKV
+                     SNNAEDPKDLMLSGERVLQTERSVESSSISLVPGTDYGTQESISLLEVSTLGKAKTEP
+                     NKCVSQCAAFENPKGLIHGCSKDTRNDTEGFKYPLGHEVNHSRETSIEMEESELDAQY
+                     LQNTFKVSKRQSFALFSNPGNPEEECATFSAHCRSLKKQSPKVTFEREQKEQNQGKNE
+                     SNIKPVQTVNTTAGFPVVCQKDKPVDYAKCSIKGGSRFCLSSQFRGNETGLITPNKHG
+                     LLQNPYHIPPLFPIKSFVKTKCKKNLLEENFEEHSMSPEREMGNENIPSTVSTISRNN
+                     IRENVFKEASSSNINEVGSSTNEVGSSINEVGSSDENIQAELGRNRGPKLNAMLRLGV
+                     LQPEVYKQSLPGSNCKHPEIKKQEYEEVVQTVNTDFSPCLISDNLEQPMGSSHASQVC
+                     SETPDDLLDDGEIKEDTSFAENDIKESSAVFSKSVQRGELSRSPSPFTHTHLAQGYRR
+                     GAKKLESSEENLSSEDEELPCFQHLLFGKVSNIPSQSTRHSTVATECLSKNTEENLLS
+                     LKNSLNDCSNQVILAKASQEHHLSEETKCSASLFSSQCSELEDLTANTNTQDPFLIGS
+                     SKQMRHQSESQGVGLSDKELVSDDEERGTGLEENNQEEQSMDSNLGEAASGCESETSV
+                     SEDCSGLSSQSDILTTQQRDTMQDNLIKLQQEMAELEAVLEQHGSQPSNSYPSIISDS
+                     SALEDLQNPEQSTSEKAVLTSQKSSEYPISQNPEGLSADKFEVSADSSTSKNKEPGVE
+                     RSSPSKCPSLDDRWYMHSCSGSLQNRNYPSQEELIKVVDVEEQQLEESGPHDLTETSY
+                     LPRQDLEGTPYLESGISLFSDDPESDPSEDKAPESAHVGNIPSSTSALKVPQLKVAES
+                     AQSPAAAHTTNTAGYNAMEESVSREKPELTASTERVNKRMSMVVSGLTPEEFMLVYKF
+                     ARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFLGIAGGKWVVSYFWVTQSIKER
+                     KMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFRGLEICCYGPFTNMPTDQLEWMV
+                     QLCGASVVKELSSFTLGTGVHPIVVVQPDAWTEDNGFHAIGQMCEAPVVTREWVLDSV
+                     ALYQCQELDTYLIPQIPHSHY"
+     misc_feature    1..3
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylmethionine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    340..342
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    922..924
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by AURKA.
+                     {ECO:0000250|UniProtKB:P38398}; propagated from
+                     UniProtKB/Swiss-Prot (Q9GKK8.2); other site"
+     misc_feature    1183..1185
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    1192..1194
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    1267..1269
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    1300..1302
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    1651..1653
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    2080..2082
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    2122..2124
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    2173..2175
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P48754};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    2257..2259
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    2518..2520
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P48754};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    2962..2964
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by CHEK2.
+                     {ECO:0000250|UniProtKB:P38398}; propagated from
+                     UniProtKB/Swiss-Prot (Q9GKK8.2); other site"
+     misc_feature    3025..3027
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    3427..3429
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    3565..3567
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    3571..3573
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    3631..3633
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    3649..3651
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    3652..3654
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    3838..3840
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    3982..3984
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    4006..4008
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    4024..4026
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    4159..4161
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    4180..4182
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    4189..4272
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9GKK8.2);
+                     Region: Interaction with PALB2. {ECO:0000250}"
+     misc_feature    4267..4269
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    4369..4371
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    4570..4572
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     misc_feature    4624..4626
+                     /gene="BRCA1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P38398};
+                     propagated from UniProtKB/Swiss-Prot (Q9GKK8.2); other
+                     site"
+     exon            1..80
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            81..134
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            135..212
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            213..301
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            302..441
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            442..547
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            548..593
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            594..670
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            671..4096
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     STS             677..845
+                     /gene="BRCA1"
+                     /standard_name="GDB:454227"
+                     /db_xref="UniSTS:157424"
+     STS             764..1002
+                     /gene="BRCA1"
+                     /standard_name="GDB:454278"
+                     /db_xref="UniSTS:157425"
+     STS             927..1204
+                     /gene="BRCA1"
+                     /standard_name="GDB:454349"
+                     /db_xref="UniSTS:157426"
+     STS             1067..1311
+                     /gene="BRCA1"
+                     /standard_name="GDB:454353"
+                     /db_xref="UniSTS:157427"
+     STS             1233..1498
+                     /gene="BRCA1"
+                     /standard_name="GDB:454372"
+                     /db_xref="UniSTS:157428"
+     STS             1453..1715
+                     /gene="BRCA1"
+                     /standard_name="GDB:454381"
+                     /db_xref="UniSTS:157429"
+     STS             1612..1855
+                     /gene="BRCA1"
+                     /standard_name="GDB:454417"
+                     /db_xref="UniSTS:157430"
+     STS             1799..2097
+                     /gene="BRCA1"
+                     /standard_name="GDB:454421"
+                     /db_xref="UniSTS:157431"
+     STS             2023..2278
+                     /gene="BRCA1"
+                     /standard_name="GDB:454425"
+                     /db_xref="UniSTS:157432"
+     STS             2162..2385
+                     /gene="BRCA1"
+                     /standard_name="GDB:454429"
+                     /db_xref="UniSTS:157433"
+     STS             2329..2598
+                     /gene="BRCA1"
+                     /standard_name="GDB:454433"
+                     /db_xref="UniSTS:157434"
+     STS             2516..2829
+                     /gene="BRCA1"
+                     /standard_name="GDB:454437"
+                     /db_xref="UniSTS:157435"
+     STS             2542..2784
+                     /gene="BRCA1"
+                     /standard_name="PMC13918P1"
+                     /db_xref="UniSTS:270877"
+     STS             2781..3086
+                     /gene="BRCA1"
+                     /standard_name="GDB:454441"
+                     /db_xref="UniSTS:157436"
+     STS             3052..3429
+                     /gene="BRCA1"
+                     /standard_name="GDB:454446"
+                     /db_xref="UniSTS:157437"
+     STS             3294..3618
+                     /gene="BRCA1"
+                     /standard_name="GDB:454450"
+                     /db_xref="UniSTS:157438"
+     STS             3564..3852
+                     /gene="BRCA1"
+                     /standard_name="BRCA1"
+                     /db_xref="UniSTS:262743"
+     STS             3567..3840
+                     /gene="BRCA1"
+                     /standard_name="GDB:454454"
+                     /db_xref="UniSTS:157439"
+     STS             3576..3835
+                     /gene="BRCA1"
+                     /standard_name="PMC310899P3"
+                     /db_xref="UniSTS:272805"
+     STS             3669..3964
+                     /gene="BRCA1"
+                     /standard_name="G60034"
+                     /db_xref="UniSTS:137300"
+     STS             3677..3835
+                     /gene="BRCA1"
+                     /standard_name="PMC310899P2"
+                     /db_xref="UniSTS:272804"
+     STS             3741..3949
+                     /gene="BRCA1"
+                     /standard_name="GDB:454458"
+                     /db_xref="UniSTS:157440"
+     STS             3877..4094
+                     /gene="BRCA1"
+                     /standard_name="GDB:454462"
+                     /db_xref="UniSTS:157441"
+     exon            4097..4185
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4186..4357
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4358..4484
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4485..4675
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4676..4986
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4987..5074
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5075..5152
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5153..5193
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5194..5277
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5278..5332
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5333..5406
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5407..5467
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5468..5592
+                     /gene="BRCA1"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 atggatttat ctgctcttcg cgttgaagaa gtacaaaatg tcattaacgc tatgcagaaa
+       61 atcttagagt gtcccatctg tctggagttg atcaaggaac ctgtctccac aaagtgtgac
+      121 cacatatttt gcaaattttg catgctgaaa cttctcaacc agaagaaagg gccttcacag
+      181 tgtcctttat gtaagaatga tataaccaaa aggagcctac aagaaagtac gagatttagt
+      241 caacttgttg aagagctatt gaaaatcatt tgtgcttttc agcttgacac aggtttggag
+      301 tatgcaaaca gttataattt tgcaaaaaag gaaaataact ctcctgaaca tctaaaagat
+      361 gaagtttcta tcatccaaag tatgggctac agaaaccgtg ccaaaagact tctacagagt
+      421 gaacctgaaa atccttcctt gcaggaaacc agtctcagtg tccaactctc taaccttgga
+      481 actgtgagaa ctctgaggac aaagcaacgg atacaacctc aaaagaagtc tgtctacatt
+      541 gaattgggat ctgattcttc tgaagatacc gttaataagg caacttattg cagtgtggga
+      601 gatcaagaat tgttacaaat cacccctcaa ggaaccaggg atgaaatcag tttggattct
+      661 gcaaaaaagg ctgcttgtga attttctgag acggatgtaa caaatactga acatcatcaa
+      721 cccagtaata atgatttgaa caccactgag aagcgtgcaa ctgagaggca tccagaaaag
+      781 tatcagggta gttctgtttc aaacttgcat gtggagccat gtggcacaaa tactcatgcc
+      841 agctcattac agcatgagaa cagcagttta ttactcacta aagacagaat gaatgtagaa
+      901 aaggctgaat tctgtaataa aagcgaacag cctggcttag caaggagcca acataacaga
+      961 tgggctggaa gtaaggaaac atgtaatgat aggcggactc ccagcacaga aaaaaaggta
+     1021 gatctgaatg ctgatcccct gtgtgagaga aaagaatgga ataagcagaa actgccatgc
+     1081 tcagagaatc ctagagatac tgaagatgtt ccttggataa cactaaatag cagcattcag
+     1141 aaagttaatg agtggttttc cagaagtgat gaactgttag gttctgatga ctcacatgat
+     1201 ggggggtctg aatcaaatgc caaagtagct gatgtattgg acgttctaaa tgaggtagat
+     1261 gaatattctg gttcttcaaa gaaaatagac ttactggcca gcgatcctca tgaggcttta
+     1321 atatgtaaaa gtgaaagagt tcactccaaa tcagtagaga gtaatactga agacaaaata
+     1381 tttgggaaaa cctatcggag gaaggcaagc ctccccaact taagccatgt aactgaaaat
+     1441 ctaattatag gagcatttgt tactgagcca cagataatac aagagcgtcc cctcacaaat
+     1501 aaattaaagc gtaaaaggag agctacatca ggccttcatc ctgaggattt tatcaagaaa
+     1561 gcagatttgg cagttcaaaa gactcctgaa atgataaatc agggaactaa ccaaatggag
+     1621 cagaatggtc aagtgatgaa tattactaat agtggtcatg agaataaaac aaaaggtgat
+     1681 tctattcaga atgagaaaaa tcctaaccca atagaatcac tcgaaaaaga atctgctttc
+     1741 aaaacgaaag ctgaacctat aagcagcggt ataagcaata tggaactcga attaaatatc
+     1801 cacaattcaa aagcacctaa aaagaatagg ctgaggagga agtcttctac caggcatatt
+     1861 catgcgcttg aactagtagt cagtagaaat ctaagcccac ctaattgtac tgaattgcaa
+     1921 attgatagtt gttctagcag tgaagagata aagaaaaaaa agtacaacca aatgccagtc
+     1981 aggcacagca gaaacctaca actcatggaa gataaagaac ctgcaactgg agtcaagaag
+     2041 agtaacaagc caaatgaaca gacaagtaaa agacatgaca gcgatacttt cccagagctg
+     2101 aagttaacaa atgcacctgg ttcttttact aactgttcaa ataccagtga acttaaagaa
+     2161 tttgtcaatc ctagccttcc aagagaagaa aaagaagaga aactagaaac agttaaagtg
+     2221 tctaataatg ccgaagaccc caaagatctc atgttaagtg gagaaagggt tttgcaaact
+     2281 gaaagatctg tagagagtag cagtatttca ttggtacctg gtactgatta tggcactcag
+     2341 gaaagtatct cgttactgga agttagcact ctagggaagg caaaaacaga accaaataaa
+     2401 tgtgtgagtc agtgtgcagc atttgaaaac cccaagggac taattcatgg ttgttccaaa
+     2461 gatactagaa atgacacaga aggctttaag tatccattgg gacatgaagt taaccacagt
+     2521 cgggaaacaa gcatagaaat ggaagaaagt gaacttgatg ctcagtattt gcagaataca
+     2581 ttcaaggttt caaagcgcca gtcatttgct ctgttttcaa atccaggaaa tccagaagag
+     2641 gaatgtgcaa cattctctgc ccactgtagg tccttaaaga aacaaagtcc aaaagtcact
+     2701 tttgaacgtg aacaaaagga acaaaatcaa ggaaagaatg agtctaatat caagcctgta
+     2761 cagacagtta ataccactgc aggctttcct gtggtttgtc agaaagataa gccagttgat
+     2821 tatgccaaat gtagtatcaa aggaggctct aggttttgtc tatcatctca gttcagaggc
+     2881 aacgaaactg gactcattac tccaaataaa catggacttt tacaaaaccc atatcatata
+     2941 ccaccacttt ttcccatcaa gtcatttgtt aaaactaaat gtaagaaaaa cctgctagag
+     3001 gaaaactttg aggaacattc aatgtcacct gaaagagaaa tgggaaatga gaacattcca
+     3061 agtacagtga gcacaattag ccgtaataac attagagaaa atgtttttaa agaagccagc
+     3121 tcaagcaata ttaatgaagt aggttccagt actaatgaag tgggctccag tattaatgaa
+     3181 gtaggttcca gtgatgaaaa cattcaagca gaactaggta gaaacagagg gccaaaattg
+     3241 aatgctatgc ttagattagg ggttttgcaa cctgaggtct ataaacaaag tcttcctgga
+     3301 agtaattgta agcatcctga aataaaaaag caagaatatg aagaagtagt tcagactgtt
+     3361 aatacagatt tctctccatg tctgatttca gataacttag aacagcctat gggaagtagt
+     3421 catgcatctc aggtttgttc tgagacacct gatgacctgt tagatgatgg tgaaataaag
+     3481 gaagatacta gttttgctga aaatgacatt aaggaaagtt ctgctgtttt tagcaaaagc
+     3541 gtccagagag gagagcttag caggagtcct agccctttca cccatacaca tttggctcag
+     3601 ggttaccgaa gaggggccaa gaaattagag tcctcagaag agaacttatc tagtgaggat
+     3661 gaagagcttc cctgcttcca acacttgtta tttggtaaag taagcaatat accttctcag
+     3721 tctactaggc atagcaccgt tgctaccgag tgtctgtcta agaacacaga ggagaattta
+     3781 ttatcattga agaatagctt aaatgactgc agtaaccagg taatattggc aaaggcatct
+     3841 caggaacatc accttagtga ggaaacaaaa tgttctgcta gcttgttttc ttcacagtgc
+     3901 agtgaattgg aagacttgac tgcaaataca aacacccagg atcctttctt gattggttct
+     3961 tccaaacaaa tgaggcatca gtctgaaagc cagggagttg gtctgagtga caaggaattg
+     4021 gtttcagatg atgaagaaag aggaacgggc ttggaagaaa ataatcaaga agagcaaagc
+     4081 atggattcaa acttaggtga agcagcatct gggtgtgaga gtgaaacaag cgtctctgaa
+     4141 gactgctcag ggctatcctc tcagagtgac attttaacca ctcagcagag ggataccatg
+     4201 caagataacc tgataaagct ccagcaggaa atggctgaac tagaagctgt gttagaacag
+     4261 catgggagcc agccttctaa cagctaccct tccatcataa gtgactcttc tgcccttgag
+     4321 gacctgcaaa atccagaaca aagcacatca gaaaaagcag tattaacttc acagaaaagt
+     4381 agtgaatacc ctataagcca gaatccagaa ggcctttctg ctgacaagtt tgaggtgtct
+     4441 gcagatagtt ctaccagtaa aaataaagaa ccaggagtgg aaaggtcatc cccttctaaa
+     4501 tgcccatcat tagatgatag gtggtacatg cacagttgct ctgggagtct tcagaataga
+     4561 aactacccat ctcaagagga gctcattaag gttgttgatg tggaggagca acagctggaa
+     4621 gagtctgggc cacacgattt gacggaaaca tcttacttgc caaggcaaga tctagaggga
+     4681 accccttacc tggaatctgg aatcagcctc ttctctgatg accctgaatc tgatccttct
+     4741 gaagacaaag ccccagagtc agctcatgtt ggcaacatac catcttcaac ctctgcattg
+     4801 aaagttcccc aattgaaagt tgcagaatct gcccagagtc cagctgctgc tcatactact
+     4861 aatactgctg ggtataatgc aatggaagaa agtgtgagca gggagaagcc agaattgaca
+     4921 gcttcaacag aaagggtcaa caaaagaatg tccatggtgg tgtctggcct gaccccagaa
+     4981 gaatttatgc tcgtgtacaa gtttgccaga aaacaccaca tcactttaac taatctaatt
+     5041 actgaagaga ctactcatgt tgttatgaaa acagatgctg agtttgtgtg tgaacggaca
+     5101 ctgaaatatt ttctaggaat tgcgggagga aaatgggtag ttagctattt ctgggtgacc
+     5161 cagtctatta aagaaagaaa aatgctgaat gagcatgatt ttgaagtcag aggagatgtg
+     5221 gtcaatggaa gaaaccacca aggtccaaag cgagcaagag aatcccagga cagaaagatc
+     5281 ttcagggggc tagaaatctg ttgctatggg cccttcacca acatgcccac agatcaactg
+     5341 gaatggatgg tacagctgtg tggtgcttct gtggtgaagg agctttcatc attcaccctt
+     5401 ggcacaggtg tccacccaat tgtggttgtg cagccagatg cctggacaga ggacaatggc
+     5461 ttccatgcaa ttgggcagat gtgtgaggca cctgtggtga cccgagagtg ggtgttggac
+     5521 agtgtagcac tctaccagtg ccaggagctg gacacctacc tgatacccca gatcccccac
+     5581 agccactact ga
+//

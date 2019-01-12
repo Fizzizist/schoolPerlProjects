@@ -1,0 +1,250 @@
+LOCUS       NM_001301366            5592 bp    mRNA    linear   PRI 20-NOV-2016
+DEFINITION  Macaca fascicularis BRCA1, DNA repair associated (BRCA1), mRNA.
+ACCESSION   NM_001301366
+VERSION     NM_001301366.1
+KEYWORDS    RefSeq.
+SOURCE      Macaca fascicularis (crab-eating macaque)
+  ORGANISM  Macaca fascicularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 5592)
+  AUTHORS   Lou DI, McBee RM, Le UQ, Stone AC, Wilkerson GK, Demogines AM and
+            Sawyer SL.
+  TITLE     Rapid evolution of BRCA1 and BRCA2 in humans and other primates
+  JOURNAL   BMC Evol. Biol. 14, 155 (2014)
+   PUBMED   25011685
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 5592)
+  AUTHORS   Roncaglioni,M.C., Falanga,A., D'Alessandro,A.P., Alessio,M.G.,
+            Casali,B. and Donati,M.B.
+  TITLE     Evidence of a warfarin-sensitive cancer procoagulant in V2
+            carcinoma
+  JOURNAL   Haematologica 74 (2), 143-147 (1989)
+   PUBMED   2501168
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from KM017624.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: KM017624.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMD00006228, SAMN00622000
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..5592
+                     /organism="Macaca fascicularis"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9541"
+                     /chromosome="16"
+                     /map="16"
+     gene            1..5592
+                     /gene="BRCA1"
+                     /note="BRCA1, DNA repair associated"
+                     /db_xref="GeneID:102121313"
+     CDS             1..5592
+                     /gene="BRCA1"
+                     /EC_number="2.3.2.27"
+                     /note="breast cancer type 1 susceptibility protein
+                     homolog; breast cancer 1, early onset; BRCA1 homologue"
+                     /codon_start=1
+                     /product="breast cancer type 1 susceptibility protein"
+                     /protein_id="NP_001288295.1"
+                     /db_xref="GeneID:102121313"
+                     /translation="MDLSAVRVEEVQNVINAMQKILECPICLELIKEPVSTKCDHIFC
+                     RFCMLKLLNQKKGPSQCPLCKNDITKRSLQESTRFSQLVEELLKIIHAFQLDTGLQFA
+                     NSYNFAKKENHSPEHLKDEVSIIQSMGYRNRAKRLLQSEPENPSLQETSLSVPLSNLG
+                     IVRTLRTKQQIQPQKKSVYIELGSDSSEDTVNKATYCSVGDQELLQITPQGTRDETSL
+                     DSAKKAACEFSEKDITNTEHHQSSNNDLNTTEKHATERHPEKYQGSSVSNLHVEPCGT
+                     NTHASSLQHENSLLLTKDRMNVEKAEFCNKSKQPGLARSQHNRWTGSKETCNDRQTPS
+                     TEKKVDLNANALYERKEWNKQKLPCSENPRDAEDVPWITLNSSIQKVNEWFSRSDELL
+                     SSDDSHDGGSESNAKVADVLDVLNEVDEYSGSSEKIDLLASDPHEPLICKSERVHSSS
+                     VESNIKDKIFGKTYRRKANLPNLSHVTENLIIGALVTESQIMQERPLTNKLKRKRRTT
+                     SGLHPEDFIKKADLAVQKTPEIINQGTNQMEQNGQVMNITNSAHENKTKGDSIQNEKN
+                     PNAIESLEEESAFKTKAEPISSSINNMELELNIHNSKAPKKNRLRRKSSTRHIHALEL
+                     VVSRNLSPPNCTELQIDSCSSSEEIKKKNYNQMPVRHSRNLQLMEDKESATGAKKSNK
+                     PNEQTSKRHASDTFPELKLTKVPGSFTNCSNTSELKEFVNPSLSREEKEEKLETVKVS
+                     NNAKDPKDLMLSGERVLQTERSVESSSISLVPGTDYGTQESISLLEVSTLGKAKTERN
+                     KCMSQCAAFENPKELIHGGSEDTRNDTEGFKYPLGSEVNHSQETSIEIEESELDTQYL
+                     QNTFKVSKRQSFALFSNPGNPEEECATFSAHSRSLKKQSPKVTSECEQKEENQGKKES
+                     NIKPVQTVNITAGFSVVCQKDKPVDNAKCSIKGGSRFCLSSQFRGNETGLITPNKHGL
+                     LQNPYHIPPLFPVKSFVKTKCNKNLLEENSEEHSVSPERAVGNENIIPSTVSTISHNN
+                     IRENAFKEASSSNINEVGSSTNEVGSSINEVGSSDENIQAELGRNRGPKLNAVLRLGL
+                     LQPEVCKQSLPISNCKHPEIKKQEHEELVQTVNTDFSPCLISDNLEQPMGSSHASEVC
+                     SETPDDLLDDGEIKEDTSFAENDIKESSAVFSKSIQRGELSRSPSPFTHTHLAQGYRK
+                     EAKKLESSEENLSSEDEELPCFQHLLFGKVSNIPSQTTRHSTVATECLSKNTEENLLS
+                     LKNSLTDCSNQVILAKASQEHHLSEETKCSGSLFSSQCSELEDLTANTNTQDPFLIGS
+                     SKRMRHQSESQGVGLSDKALVSDDEERGTGLEEDNQEEQSVDSNLGEAASGYESETSV
+                     SEDCSRLSSQSEILTTQQRDTMQDNLIKLQQEMAELEAVLEQHGSQPSNSYPSIITDS
+                     SALEDLRNPEQSTSEKAVLTSQKSSEYPINQNPEGLSADKFEVSADSSTSKNKEPGVE
+                     RSSPSKCQSLEDRWYVHSSSGSLQNGNYPSQEELIKVVDVETQQLEKSGPHDLMEPSY
+                     LPRQDLEGTPYLESGISLFSDDPESDPSEDRAPESAHVGSIPSSTSALKVPQWQVAES
+                     AQSPAAAHNTNTAGYNAMEESVSRENPKLTASTERVNKRMSLVVSGLTPEEFMLVYKF
+                     ARRYHIALTNLISEETTHVVMKTDAEFVCERTLKYFLGIAGGKWVVSYFWVTQSIKER
+                     KMLNEHDFEVRGDVVNGRNHQGPKRARESPDRKIFRGLEICCYGPFTNMPTDQLEWMV
+                     QLCGASVVKELSSFTLGTGFHPIVVVQPDAWTEDNGFHAIGQMCEAPVVTREWVLDSV
+                     ALYQCQELDTYLIPQIPHSHY"
+     STS             764..999
+                     /gene="BRCA1"
+                     /standard_name="GDB:454278"
+                     /db_xref="UniSTS:157425"
+     STS             834..1082
+                     /gene="BRCA1"
+                     /standard_name="BRCA1"
+                     /db_xref="UniSTS:480215"
+     STS             924..1201
+                     /gene="BRCA1"
+                     /standard_name="GDB:454349"
+                     /db_xref="UniSTS:157426"
+     STS             1230..1495
+                     /gene="BRCA1"
+                     /standard_name="GDB:454372"
+                     /db_xref="UniSTS:157428"
+     STS             1609..1852
+                     /gene="BRCA1"
+                     /standard_name="GDB:454417"
+                     /db_xref="UniSTS:157430"
+     STS             2020..2275
+                     /gene="BRCA1"
+                     /standard_name="GDB:454425"
+                     /db_xref="UniSTS:157432"
+     STS             2159..2382
+                     /gene="BRCA1"
+                     /standard_name="GDB:454429"
+                     /db_xref="UniSTS:157433"
+     STS             2326..2595
+                     /gene="BRCA1"
+                     /standard_name="GDB:454433"
+                     /db_xref="UniSTS:157434"
+     STS             2513..2826
+                     /gene="BRCA1"
+                     /standard_name="GDB:454437"
+                     /db_xref="UniSTS:157435"
+     STS             2539..2781
+                     /gene="BRCA1"
+                     /standard_name="PMC13918P1"
+                     /db_xref="UniSTS:270877"
+     STS             3052..3429
+                     /gene="BRCA1"
+                     /standard_name="GDB:454446"
+                     /db_xref="UniSTS:157437"
+     STS             3564..3852
+                     /gene="BRCA1"
+                     /standard_name="BRCA1"
+                     /db_xref="UniSTS:262743"
+     STS             3567..3840
+                     /gene="BRCA1"
+                     /standard_name="GDB:454454"
+                     /db_xref="UniSTS:157439"
+     STS             3576..3835
+                     /gene="BRCA1"
+                     /standard_name="PMC310899P3"
+                     /db_xref="UniSTS:272805"
+     STS             3669..3964
+                     /gene="BRCA1"
+                     /standard_name="G60034"
+                     /db_xref="UniSTS:137300"
+     STS             3677..3835
+                     /gene="BRCA1"
+                     /standard_name="PMC310899P2"
+                     /db_xref="UniSTS:272804"
+     STS             3741..3949
+                     /gene="BRCA1"
+                     /standard_name="GDB:454458"
+                     /db_xref="UniSTS:157440"
+ORIGIN      
+        1 atggatttat ctgctgttcg cgttgaagaa gtacaaaatg tcattaatgc tatgcagaaa
+       61 atcttagagt gtccaatctg tctggagttg atcaaggaac ctgtctccac aaagtgtgac
+      121 cacatatttt gcagattttg catgctgaaa cttctcaacc agaagaaagg gccttcacag
+      181 tgtcctttgt gtaagaatga tataaccaaa agaagcctac aagaaagtac aagatttagt
+      241 caacttgttg aagagctatt gaaaatcatt catgcttttc agcttgacac aggtttgcag
+      301 tttgcaaaca gttataattt tgcaaaaaag gaaaatcact ctcctgaaca tctaaaagat
+      361 gaagtttcta tcatccaaag tatgggctac agaaaccgtg ccaaaagact tctacagagt
+      421 gaacccgaaa atccttcctt gcaggaaacc agtctcagtg tcccactctc taaccttgga
+      481 attgtgagaa ctctgaggac aaagcagcag atacaacctc aaaagaagtc tgtctacatt
+      541 gaactgggat ctgattcttc tgaagatacg gttaataagg caacttattg cagtgtggga
+      601 gatcaagaat tgttacaaat cacccctcaa ggaaccaggg atgaaaccag tttggattct
+      661 gcaaaaaagg ctgcttgtga attttctgag aaggatataa caaatactga acatcatcag
+      721 tccagtaata atgatttgaa caccactgag aaacatgcaa ctgagaggca tccagaaaag
+      781 tatcagggta gttctgtttc aaacttgcat gtggagccat gtggcacaaa tactcatgcc
+      841 agctcattac agcatgagaa cagtttatta ctcactaaag acagaatgaa tgtagaaaag
+      901 gctgaattct gtaataaaag caaacagcct ggcttggcaa ggagccaaca taacagatgg
+      961 actggaagta aggaaacatg taatgatagg cagactccca gcacagagaa aaaggtagat
+     1021 ctgaatgcta atgccctgta tgagagaaaa gaatggaata agcaaaaact gccatgctct
+     1081 gagaatccta gagacgctga agatgttcct tggataacac taaatagcag cattcagaaa
+     1141 gttaatgagt ggttttccag aagtgatgaa ctgttaagtt ctgatgactc acatgatggg
+     1201 gggtctgaat caaatgccaa agtagctgat gtattggacg ttctaaatga ggtagatgaa
+     1261 tattctggtt cttcagagaa aatagactta ctggccagtg atcctcatga gcctttaata
+     1321 tgtaaaagtg aaagagttca ctccagttca gtagagagta atattaaaga caaaatattt
+     1381 gggaaaacct atcggaggaa ggcaaacctt cccaatttaa gccatgtaac tgaaaatcta
+     1441 attataggag cacttgttac tgagtcacag ataatgcaag agcgtcccct cacaaataaa
+     1501 ttaaagcgta aaaggagaac tacatcaggt cttcatcctg aggattttat aaagaaagca
+     1561 gatttggcag ttcaaaagac tcctgaaata ataaatcagg gaactaacca aatggagcag
+     1621 aatggtcaag tgatgaatat tactaatagt gctcatgaga ataaaacaaa aggtgattct
+     1681 attcagaatg agaaaaatcc taacgcaata gaatcactgg aagaagaatc tgctttcaaa
+     1741 actaaagctg aacctataag cagcagtata aacaatatgg aactagaatt aaatatccac
+     1801 aattcaaaag cacctaaaaa aaataggctg aggaggaagt cttctaccag gcatattcat
+     1861 gcgcttgaac tagtagtcag tagaaatcta agcccaccta attgtactga actacaaatt
+     1921 gatagttgtt ctagcagtga agagataaag aaaaaaaatt acaaccaaat gccagtcagg
+     1981 cacagcagaa acctacaact catggaagat aaagaatctg caactggagc caagaagagt
+     2041 aacaagccaa atgaacagac aagtaaaaga catgccagtg atactttccc agaactgaag
+     2101 ttaacaaagg tacctggttc ttttactaac tgttcaaata ctagtgaact taaagaattt
+     2161 gtcaatccta gcctttcaag agaagaaaaa gaagagaaac tagaaacagt taaagtgtct
+     2221 aataatgcca aagaccccaa agatctcatg ttaagtggag aaagggtttt acaaactgaa
+     2281 agatctgtag agagtagcag tatttcattg gtacctggta ccgattatgg cactcaggaa
+     2341 agtatctcat tactggaagt tagcactcta gggaaggcaa aaacagaacg aaataaatgt
+     2401 atgagtcagt gtgcagcatt tgaaaacccc aaggaactaa ttcatggtgg ttctgaagat
+     2461 actagaaatg acacagaagg ctttaagtat ccattgggaa gtgaagttaa ccacagtcag
+     2521 gaaacaagca tagaaataga agaaagtgaa cttgatactc agtatttgca gaatacattc
+     2581 aaggtttcaa agcgccagtc ctttgctctg ttttcaaatc caggaaatcc agaagaggaa
+     2641 tgtgcaacat tctctgccca ctctaggtcc ttaaagaaac aaagtccaaa agttacttct
+     2701 gaatgtgaac aaaaggaaga aaatcaagga aagaaagagt ctaatatcaa gcctgtacag
+     2761 acagttaata tcactgcagg cttttctgtg gtttgtcaga aagataagcc agttgataat
+     2821 gccaaatgta gtatcaaagg aggctctagg ttttgtctat catctcagtt cagaggcaac
+     2881 gaaactggac tcattactcc aaataaacat ggacttttac aaaacccata ccatatacca
+     2941 ccactttttc ctgtcaagtc atttgttaaa actaaatgta acaaaaacct gctagaggaa
+     3001 aactctgagg aacattcagt gtcacctgaa agagcagtgg gaaacgagaa catcattcca
+     3061 agtacagtga gcacaattag ccataataac attagagaaa atgcttttaa agaagccagc
+     3121 tcgagcaata ttaatgaagt aggttccagt actaatgaag tgggctccag tattaatgaa
+     3181 gtaggttcca gtgatgaaaa cattcaagca gaactaggta gaaacagagg gccaaaattg
+     3241 aatgctgtgc ttagattagg gcttttgcaa cctgaggtct gtaaacaaag tcttcctata
+     3301 agtaattgta agcatcctga aataaaaaag caagaacatg aagaattagt tcagactgtt
+     3361 aatacagact tctctccatg tctgatttca gataacctag aacagcctat gggaagtagt
+     3421 catgcgtctg aggtttgttc tgagactcct gatgatctgt tagatgatgg tgaaataaag
+     3481 gaagatacta gttttgctga aaatgacatt aaggagagtt ctgctgtttt tagcaaaagc
+     3541 atccagagag gagagctcag caggagccct agccctttca cccatacaca tttagctcag
+     3601 ggttaccgaa aagaggccaa gaaattagag tcctcagaag agaacttatc tagtgaggat
+     3661 gaagagcttc cctgcttcca acacttgtta tttggtaaag taagcaatat accttctcag
+     3721 actactaggc atagcactgt tgctaccgag tgtctgtcta agaacacaga ggagaattta
+     3781 ttatcattga agaatagctt aactgactgt agtaaccagg taatattggc aaaggcatcc
+     3841 caggaacatc accttagtga ggaaacaaaa tgttctggta gcttgttttc ttcacagtgc
+     3901 agtgaactgg aagacttgac tgcaaataca aacacccagg atcctttctt gattggttct
+     3961 tccaaacgaa tgaggcatca gtctgaaagc cagggagttg gtctgagtga caaggcattg
+     4021 gtttcagatg atgaagaaag gggaacgggc ttggaagaag ataatcaaga agagcaaagt
+     4081 gtggattcaa acttaggtga agcagcatcc gggtatgaga gtgaaacaag cgtctctgaa
+     4141 gactgctcaa ggctctcctc tcagagcgaa attttaacca ctcagcagag ggataccatg
+     4201 caagataacc taataaagct ccagcaggaa atggctgaac tagaagctgt gttagaacag
+     4261 cacggaagcc agccttctaa cagctaccct tccatcataa ctgactcttc tgcccttgag
+     4321 gacctgcgaa atccagaaca aagcacatca gaaaaagcag tattaacttc acagaaaagt
+     4381 agtgagtatc ctataaacca gaatccagaa ggcctttctg ctgacaagtt cgaggtatct
+     4441 gcagatagtt ctaccagtaa aaataaagaa ccaggagtgg aaaggtcatc cccttctaaa
+     4501 tgccagtcat tagaggatag gtggtatgtg cacagtagct ctgggagtct tcagaatgga
+     4561 aattacccat ctcaagagga gctcattaag gttgttgatg tggagacgca acaactggaa
+     4621 aagtctgggc cacacgattt gatggaacca tcttacttgc caaggcaaga tctagaggga
+     4681 accccttacc tggaatctgg aatcagtctc ttctctgatg accctgaatc tgatccttcc
+     4741 gaagacagag ccccagagtc agctcatgtt ggcagcatac catcttcaac ctctgcattg
+     4801 aaagtacccc agtggcaagt tgcagaatct gcccagagtc cagctgctgc tcataatact
+     4861 aatactgctg ggtataatgc aatggaagaa agtgtgagca gggagaatcc gaaattgaca
+     4921 gcttcaacag aaagggtcaa caaaagaatg tccttggtgg tgtctggcct gaccccagaa
+     4981 gaatttatgc tcgtgtacaa gtttgccaga agataccaca tcgctttaac taatctaatt
+     5041 agtgaagaga ctactcatgt cgttatgaaa acagatgctg agtttgtgtg tgaacggacg
+     5101 ctgaaatatt ttctgggaat tgcgggagga aaatgggtag ttagctattt ctgggtgacc
+     5161 cagtctatta aagaaagaaa aatgctgaat gagcatgatt ttgaagtcag aggagatgtg
+     5221 gtcaatggaa gaaaccacca aggtccaaag cgagcaagag aatccccaga cagaaagatc
+     5281 ttcagggggc tagaaatctg ttgttatggg cccttcacca acatgcccac agatcaactg
+     5341 gagtggatgg tacagctttg tggtgcttct gtggtgaagg agctttcatc attcaccctt
+     5401 ggcacaggtt tccacccaat tgtggttgtg cagccagatg cctggacaga ggacaatggc
+     5461 ttccatgcaa ttgggcagat gtgtgaggca cctgtggtga cccgagagtg ggtgttggac
+     5521 agtgtagcac tctaccagtg ccaggagctg gacacctacc tgatacccca gatcccccac
+     5581 agccactact ga
+//
